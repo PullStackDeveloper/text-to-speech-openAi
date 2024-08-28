@@ -1,0 +1,6 @@
+.idea
+node_modules
+.env
+package-lock.json
+export-tree.ps1
+estrutura_projeto.txt
